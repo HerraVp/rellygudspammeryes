@@ -18,4 +18,4 @@ def spam(msg, maxMsg):
             sleep(8)
 
 
-spam("Rotta", 20)
+spam("LOL", 20)
